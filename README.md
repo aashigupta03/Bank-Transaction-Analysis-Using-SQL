@@ -57,6 +57,6 @@ Used case statements to identify saving or balanced customer
 ## Project Structure
 
 Dataset/
-SQL/
+SQL Queries/
 Screenshots/
 README.md
